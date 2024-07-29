@@ -17,9 +17,9 @@ from langchain.chains.conversation.memory import ConversationBufferMemory #Conve
 
 from langchain_groq import ChatGroq
 from langchain.prompts import PromptTemplate
-from dotenv import load_dotenv
+#gitfrom dotenv import load_dotenv
 
-load_dotenv() #loading the dotenv. Used to load the environment variables.
+ #loading the dotenv. Used to load the environment variables.
 
 def main():
     #Get the groq api key

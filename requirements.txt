@@ -3,3 +3,4 @@ groq
 langchain
 langchain-groq
 openai
+dotenv
